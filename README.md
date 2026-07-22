@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Richard Kojo Djivon
 
-<!--
-**Richard-Djivob/Richard-Djivob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Physics and computer science student at the University of Ghana.
 
-Here are some ideas to get you started:
+💻 Passionate about software development, data science, artificial intelligence, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Java
+- Python
+- SQL
+- Git & GitHub
+- Data Structures & Algorithms
+- Object-Oriented Programming
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Data Analysis with Python
+- Web Development
+- Software Engineering
+
+---
+
+## 📂 Featured Projects
+
+- 🔍 Java Console-Based Searching and Sorting Program
+- 🏫 School Management System
+- 📊 Data Analysis Projects
+
+---
+
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Richard-Djivob
+- LinkedIn: 
+
+⭐ Thanks for visiting my profile!
