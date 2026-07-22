@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Richard Kojo Djivon
 
-🎓 BSc Physics and computer science student at the University of Ghana.
+🎓 BSc Physics with computer science student at the University of Ghana.
 
 💻 Passionate about software development, data science, artificial intelligence, and solving real-world problems through technology.
 
